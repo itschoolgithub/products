@@ -1,1 +1,2 @@
 https://fakestoreapi.com/
+https://dummyjson.com/
